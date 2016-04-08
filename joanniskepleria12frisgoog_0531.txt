@@ -1,0 +1,67 @@
+' stt ¹ monneto.
+
+punctis M, P totoque clrculo per illa traducto Sol ultimo totus videri potest.
+Exinde enim quc magis ingredimur ad interiora, boc plus de Sole tegitur
+a Luna, quoad ventum fuerit ad circulum per N, Opuucta ductum, ubi
+totus Sol tegi incipit.
+
+Definitio 111. Discus Terrae est circulus prope maximus illumi-
+nationis Telluris, axem umbrae Terrae perpendiculariter secans prope Teme
+centrum. Discus dicitur, quia fingimus superficiem Telluris illuminatam pro-
+
+. jectam esse in planum hujus circuli.
+
+Theorema VIII.
+
+Augulns apparentis ex centro Terrae semidiametri luminis iu
+loeo transitus Lunae est aequalis parallaxi Lunae horizoutsli
+et semImucroui umbrae Terrae junctis.
+
+In schemate 2. sit locus transitus Lunae per lumen HIT, HI seni·
+diameter luminis. Ducatur ΗΒ, erit IBH angulus iu centro Terrae B.
+Igitur io Δ HCB est ΗΒΙ exterior = BHG -l- BGII, interioribus et op·
+positis; sed BHG h. e. ΒΗΕ est parallaxis horizontalis puueti Η ser
+Lunae in eo, et BOH est semimucro umbrae. Q. Β. D.
+
+Problema 111.
+
+Datis parallaxibus luminarium et semidiame'brc Solis appa·
+renti, invenire semidiametrum luminis.
+
+Ad parallaxiu Lunae horizontalem adde semid. Solis apparentem,t
+summa auler parallaxin Solis: vel quod idem est, conjice in uuam summan
+parallaxin Lunae a Sole et semidiametrum Solis, prodit utrinque semidit-
+meter luminis apparens. (vit. probl. I.)
+
+Theorema IX.
+
+Duplieata Lunae parallaxis iu certa distantia Lunae a Terra
+aequat apparentes iu eadem distantia a Terra semidia-
+metrue umbrae Terrae et luminis.
+
+Nam semidiameter luminis excedit parallaxiu Lunae semimucrone umbrae
+
+(th. VIII.) At semidiameter umbrae minor est Lunae parallaxi eodem
+semimucrone umbrae: junctae igitur semidiametri luminis et umbrae aequant
+duas parallaxes Lunae, excessu compensante defectum aequalem. Ergo&
+Brevins ex schemate: IBH superat ΒΗΒ angulo BCE cum ΒΗΕ, ΒΓΕ
+GBF superatur BFE angulo BCE siut aequales
+
+Theorema tt
+
+Augulus apparentis semidiametri Lunae excentrc Terrae est
+aequalis junctis semidiametris‚ Solis ex centro Terrae visi ct
+umbrae Lunae apud centrum Terrae velut ex Luna visae
+
+Iu schemate connectantur puncta L, Β. Ergo iu Δ LRB exterior
+LBI eet aequalis interioribus et oppositis BLR, BRL. Sed LBI estsemi·
+diameter Lunae ex centro Terrae apparens, et BLR, id est ΒΙ.0, etl
+semid. umbrae constituta ad centrum Terrae B et apparens cx L puncto
+Lunae· denique BRL, h. e. ARD est semidiameter Solis ex puuctoR ap
+parens, quod semper est proxime B centrum Terrae. Ergo &c q..ed
+
+Corollarium Summa semidiametromm Solis et Lunae aequatem
+mam ex diametro Solis et semidiametro umbrae Lunae·
+
+ 
+
